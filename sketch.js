@@ -15,5 +15,5 @@ function findC() {
   let c = Math.sqrt(tempC);
 
   console.log(c);
-  alert(c);
+  alert('c = ' + c);
 }
